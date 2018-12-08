@@ -17,10 +17,11 @@ Abe Lerman is the Lead Data Scientist for Contently, a SoHo-based technology com
 
 Part 1: Python Basics
 
-- Variables, loops and functions
-- Libraries and installations
-- I/O: reading / writing data (from / to, with both files and the internet)
-- Simple analysis: data cleaning, descriptive stats
+- Variables and operators
+- Iterables
+- Flow control
+- Functions
+- Classes
 
 Part 2:  Analytical Python
 
