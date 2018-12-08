@@ -38,5 +38,4 @@ Note the above link leads to a download of the Anaconda Python distribution, whi
 - `numpy`
 - `pandas`
 - `sklearn`
-- `requests`
 - `jupyter`
