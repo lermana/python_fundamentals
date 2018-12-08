@@ -5,7 +5,7 @@
 
 Students will learn Python fundamentals, working through basic computer science concepts, practical exercises, and data- and analysis-oriented programming.
 
-The session will be divided into two parts, with the first serving as an "Intro to Programming, with Python" sort of class, and the second as an introduction to the NumPy and Pandas libraries, key tools for any analytical Python programmer. Part 2 will end with a quick look at scikit-learn, a widely-used machine library.
+The session will be divided into two parts, with the first serving as an "Intro to Programming, with Python" sort of class, and the second as an introduction to the NumPy library and, primarily, the Pandas library, both of which are key tools for any analytical Python programmer. Part 2 will end with a quick look at scikit-learn, a widely-used machine library.
 
 Each part will run approximately two hours, with a 15-minute break in between, and will include lecturing, interactive programming, and Q&A. This will be a fast-paced session; the hope is that the session will provide exposure to relevant, foundational concepts that students can continue to explore outside of the session.
 
@@ -25,8 +25,9 @@ Part 1: Python Basics
 
 Part 2:  Analytical Python
 
-- NumPy: arrays, vectorized calculations
-- Pandas: DataFrames, built-in methods
+- Reading and cleaning data
+- Relational data analysis: descriptive statistics, group-by's, joins
+- Data visualization
 - A quick look at scikit-learn
 
 **Note**
