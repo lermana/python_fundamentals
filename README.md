@@ -11,7 +11,7 @@ Each part will run approximately two hours, with a 15-minute break in between, a
 
 **Instructor Bio**
 
-Abe Lerman is the Lead Data Scientist for Contently, a SoHo-based technology company focused on corporate branding. He has spent the last year or so as a Python and Data Science Consultant in the Financial Services industry, contracting at Elliott Management and The Blackstone Group. Prior to that, he worked as a Data Scientist in the ad-tech space. He earned a Master of Science degree in Quantitative Finance from Fordham University, and a Bachelor of Arts degree in Mathematics from Skidmore College.
+Abe Lerman is the Lead Data Scientist for Contently, a SoHo-based technology company focused on corporate branding. He spent the prior year or so as a Python and Data Science Consultant in the Financial Services industry, contracting at Elliott Management and The Blackstone Group. Prior to that, he worked as a Data Scientist in the ad-tech space. He earned a Master of Science degree in Quantitative Finance from Fordham University, and a Bachelor of Arts degree in Mathematics from Skidmore College.
 
 **Seminar Details**
 
