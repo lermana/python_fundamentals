@@ -10,40 +10,6 @@ The sessions will be divided into two main components, with the first serving as
 
 Each part will run approximately two hours, with a 15-minute break in between, and will include lecturing, interactive programming, and Q&A. This will be a fast-paced session; the hope is that the session will provide exposure to relevant, foundational concepts that students can continue to explore outside of the session.
 
-
-**Jupyter Keyboard Shorcuts**
-
-To run a cell:
-
-    shift + enter
-
-To enter command mode:
-
-    escape
-
-The following commands must be run from command mode and operate at the cell level.
-
-Copy, cut, paste cell:
-
-    c, x, v
-
-New cell above, below:
-
-    a, b
-
-Delete cell:
-
-    dd
-
-Convert cell to markdown:
-
-    m
-
-See all shortcuts:
-
-    h
-
-
 **Instructor Bio**
 
 Abe Lerman is the Lead Data Scientist for Contently, a SoHo-based technology company focused on corporate branding. He spent the prior year or so as a Python and Data Science Consultant in the Financial Services industry, contracting at Elliott Management and The Blackstone Group. Prior to that, he worked as a Data Scientist in the ad-tech space. He earned a Master of Science degree in Quantitative Finance from Fordham University, and a Bachelor of Arts degree in Mathematics from Skidmore College.
@@ -89,3 +55,36 @@ Note the above link leads to a download of the Anaconda Python distribution, whi
 - `sklearn`
 - `matplotlib`
 - `jupyter`
+
+
+**Jupyter Keyboard Shorcuts**
+
+To run a cell:
+
+    shift + enter
+
+To enter command mode:
+
+    escape
+
+The following commands must be run from command mode and operate at the cell level.
+
+Copy, cut, paste cell:
+
+    c, x, v
+
+New cell above, below:
+
+    a, b
+
+Delete cell:
+
+    dd
+
+Convert cell to markdown:
+
+    m
+
+See all shortcuts:
+
+    h
