@@ -1,5 +1,6 @@
 # python_fundamentals
-- Python seminar given at Fordham University on December 8th, 2018
+- Original Python seminar given at Fordham University on December 8th, 2018 (parts 1 and 3 stem from this session)
+- A more basic seminar given on February 9th, 2019
 
 **Overview**
 
@@ -8,6 +9,40 @@ Students will learn Python fundamentals, working through basic computer science 
 The session will be divided into two parts, with the first serving as an "Intro to Programming, with Python" sort of class, and the second as an introduction to the NumPy library and, primarily, the Pandas library, both of which are key tools for any analytical Python programmer. Part 2 will end with a quick look at scikit-learn, a widely-used machine library.
 
 Each part will run approximately two hours, with a 15-minute break in between, and will include lecturing, interactive programming, and Q&A. This will be a fast-paced session; the hope is that the session will provide exposure to relevant, foundational concepts that students can continue to explore outside of the session.
+
+
+**Jupyter Keyboard Shorcuts**
+
+To run a cell:
+
+    shift + enter
+
+To enter command mode:
+
+    escape
+
+The following commands must be run from command mode and operate at the cell level.
+
+Copy, cut, paste cell:
+
+    c, x, v
+
+New cell above, below:
+
+    a, b
+
+Delete cell:
+
+    dd
+
+Convert cell to markdown:
+
+    m
+
+See all shortcuts:
+
+    h
+
 
 **Instructor Bio**
 
