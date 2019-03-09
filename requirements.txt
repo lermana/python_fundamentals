@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+sklearn
+pandas
+requests
+ipython
+jupyter
+boto3
