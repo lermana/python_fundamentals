@@ -59,11 +59,11 @@ See all shortcuts:
 4. extract the zip file to somewhere convenient, e.g. `/home/your_user_name/projects/python_fundamentals` (this should be a location _on your machine_, and not an external drive)
 
 Then, if you are on _Windows_:
-5. open `Anaconda Cmd`
-6. navigate to the directory you've unpacked (use `cd` to change directories, `dir` to list contents of directory)
-7. run `jupyter notebook`
+- open `Anaconda Cmd`
+- navigate to the directory you've unpacked (use `cd` to change directories, `dir` to list contents of directory)
+- run `jupyter notebook`
 
 If you are on _Mac_:
-5. open `terminal`
-6. navigate to the directory you've unpacked (use `cd` to change directories, `ls` to list contents of directory)
-7. run `jupyter notebook`
+- open `terminal`
+- navigate to the directory you've unpacked (use `cd` to change directories, `ls` to list contents of directory)
+- run `jupyter notebook`
