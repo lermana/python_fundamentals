@@ -53,7 +53,7 @@ See all shortcuts:
 
 **Get the Materials**
 
-1. visit: https://github.com/lermana/indoorplants
+1. visit: https://github.com/lermana/python_fundamentals
 2. click the green "Clone or download" button
 3. click "Download ZIP"
 4. extract the zip file to somewhere convenient, e.g. `/home/your_user_name/projects/python_fundamentals` (this should be a location _on your machine_, and not an external drive)
