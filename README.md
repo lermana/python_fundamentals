@@ -1,7 +1,5 @@
 # python_fundamentals
-- Original Python seminar given at Fordham University on December 8th, 2018 (parts 1 and 3 stem from this session)
-- A more basic seminar given on February 9th, 2019
-- Advanced seminar given March 9th, 2019
+- Materials corresponding to a series of Python seminars given at Fordham University's Graduate School of Business.
 
 **Instructor Bio**
 
@@ -52,3 +50,20 @@ Convert cell to markdown:
 See all shortcuts:
 
     h
+
+**Get the Materials**
+
+1. visit: https://github.com/lermana/indoorplants
+2. click the green "Clone or download" button
+3. click "Download ZIP"
+4. extract the zip file to somewhere convenient, e.g. `/home/your_user_name/projects/python_fundamentals` (this should be a location _on your machine_, and not an external drive)
+
+Then, if you are on _Windows_:
+5. open `Anaconda Cmd`
+6. navigate to the directory you've unpacked (use `cd` to change directories, `dir` to list contents of directory)
+7. run `jupyter notebook`
+
+If you are on _Mac_:
+5. open `terminal`
+6. navigate to the directory you've unpacked (use `cd` to change directories, `ls` to list contents of directory)
+7. run `jupyter notebook`
