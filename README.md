@@ -21,7 +21,7 @@ The code you are going to be reading and writing is that of _Python_. This is an
 These libraries include:
 
 - `pandas` - data analysis tools; SQL-like / relational data analysis; built-in visualization capabilities
-- `numpy` - heavily used by pandas under-the-hood; essentially, Python wrappers for some really well-optimized C and FORTRAN code
+- `numpy` - heavily used by pandas; essentially, Python wrappers for some well-optimized C and FORTRAN code
 - `scikit-learn` - robust library providing a good breadth of machine learning functionality
 - `matplotlib` - a powerful, if cumbersome, plottling library
 - `jupyter` - interactive notebooks that combine code, visualizations, Markdown [formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), and [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
