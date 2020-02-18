@@ -49,7 +49,7 @@ Students should come prepared, having downloaded and installed Python and the ne
 Note the above link leads to a download of the Anaconda Python distribution, which provides Python + a whole lot of third-party libraries and other tools. Students do not have to get Python this way - this just provides an all-in-one download. 
 
 For those looking for more of an _a la carte_ option, these notebooks can be run with the following installed:
-- Python 3.6+
+- **Python 3.6+**
 - `numpy`
 - `pandas`
 - `sklearn`
@@ -57,7 +57,7 @@ For those looking for more of an _a la carte_ option, these notebooks can be run
 - `ipython`
 - `jupyter`
 - `requests`
-- `indoorplants` (a library I've [writtten](https://github.com/lermana/indoorplants/))
+- `indoorplants`
 
 Next, you need to get these materials. Once you're here, you can do the following:
 
@@ -74,6 +74,9 @@ If you are on _Mac_:
 - open `terminal`
 - navigate to the directory you've unpacked (use `cd` to change directories, `ls` to list contents of directory)
 - run `jupyter notebook`
+
+Finally, if you'd like to run the _data science_ notebooks, you will need to install `indoorplants`, which is a library I've [writtten](https://github.com/lermana/indoorplants/) with help from one of our data scientists, [Xiaofeng Cao](https://github.com/xcao38). You can get this through running (in your virtual environment, if you have one):
+- `pip install indoorplants`
 
 ## Jupyter Keyboard Shorcuts
 
