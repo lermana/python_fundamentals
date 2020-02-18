@@ -24,7 +24,7 @@ These libraries include:
 - `numpy` - heavily used by pandas under-the-hood; essentially, Python wrappers for some really well-optimized C and FORTRAN code
 - `scikit-learn` - robust library providing a good breadth of machine learning functionality
 - `matplotlib` - a powerful, if cumbersome, plottling library
-- `jupyter` - a tool for creating interactive notebooks that combine code, visualizations, Markdown [formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), and [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
+- `jupyter` - interactive notebooks that combine code, visualizations, Markdown [formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), and [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
 
 You can read more about Python, [here](https://docs.python.org/3/tutorial/); pandas, [here](https://pandas.pydata.org/docs/user_guide/index.html); numpy, [here](https://numpy.org/devdocs/user/quickstart.html); and Jupyter, [here](https://jupyter.org/index.html).
 
