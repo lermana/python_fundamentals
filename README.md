@@ -26,7 +26,7 @@ These libraries include:
 - `matplotlib` - a powerful, if cumbersome, plottling library
 - `jupyter` - interactive notebooks that combine code, visualizations, Markdown [formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), and [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
 
-You can read more about Python, [here](https://docs.python.org/3/tutorial/); pandas, [here](https://pandas.pydata.org/docs/user_guide/index.html); numpy, [here](https://numpy.org/devdocs/user/quickstart.html); and Jupyter, [here](https://jupyter.org/index.html).
+You can read more about [Python](https://docs.python.org/3/tutorial/), [pandas](https://pandas.pydata.org/docs/user_guide/index.html), [numpy](https://numpy.org/devdocs/user/quickstart.html), and [Jupyter](https://jupyter.org/index.html).
 
 ## GitHub
 
@@ -57,7 +57,7 @@ For those looking for more of an _a la carte_ option, these notebooks can be run
 - `ipython`
 - `jupyter`
 - `requests`
-- `indoorplants` (a library I wrote)
+- `indoorplants` (a library I've [writtten](https://github.com/lermana/indoorplants/))
 
 Next, you need to get these materials. Once you're here, you can do the following:
 
