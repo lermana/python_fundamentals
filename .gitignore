@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# stock data
+*quantquote_daily_sp500_83986*
+
 # C extensions
 *.so
 
