@@ -6,7 +6,7 @@
 We have here the materials for a few different types of Python seminars:
 - basics
 - data science
-- time series analysis & forecasting
+- time series analysis & forecasting (currently being updated)
 
 The _basics_ seminar covers basic computer programming in Python, as well as introductory data analysis techniques using the Python library `pandas`, which has become something of an industry-standard tool for quickly working through and making sense of a new data set.
 
