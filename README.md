@@ -23,6 +23,7 @@ These libraries include:
 - `pandas` - data analysis tools; SQL-like / relational data analysis; built-in visualization capabilities
 - `numpy` - heavily used by pandas; essentially, Python wrappers for some well-optimized C and FORTRAN code
 - `scikit-learn` - robust library providing a good breadth of machine learning functionality
+- `statsmodels` - a more classical-statistics-oriented, R-like modeling package
 - `matplotlib` - a powerful, if cumbersome, plottling library
 - `jupyter` - interactive notebooks that combine code, visualizations, Markdown [formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), and [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
 
