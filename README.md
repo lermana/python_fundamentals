@@ -26,6 +26,7 @@ These libraries include:
 - `statsmodels` - a more classical-statistics-oriented, R-like modeling package
 - `matplotlib` - a powerful, if cumbersome, plottling library
 - `jupyter` - interactive notebooks that combine code, visualizations, Markdown [formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), and [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
+- `requests` - for downloading data from the internet
 
 You can read more about [Python](https://docs.python.org/3/tutorial/), [pandas](https://pandas.pydata.org/docs/user_guide/index.html), [numpy](https://numpy.org/devdocs/user/quickstart.html), and [Jupyter](https://jupyter.org/index.html).
 
