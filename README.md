@@ -59,7 +59,6 @@ For those looking for more of an _a la carte_ option, these notebooks can be run
 - `ipython`
 - `jupyter`
 - `requests`
-- `indoorplants`
 
 Next, you need to get these materials. Once you're here, you can do the following:
 
@@ -76,9 +75,6 @@ If you are on _Mac_:
 - open `terminal`
 - navigate to the directory you've unpacked (use `cd` to change directories, `ls` to list contents of directory)
 - run `jupyter notebook`
-
-Finally, if you'd like to run the _data science_ notebooks, you will need to install `indoorplants`, which is a library I've [writtten](https://github.com/lermana/indoorplants/) with help from one of our data scientists, [Xiaofeng Cao](https://github.com/xcao38). You can get this through running (in your virtual environment, if you have one):
-- `pip install indoorplants`
 
 ## Jupyter Keyboard Shorcuts
 
